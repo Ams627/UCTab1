@@ -1,0 +1,19 @@
+rem echo off
+git init
+git add UCTab1/App.xaml
+git add UCTab1/App.xaml.cs
+git add UCTab1/ViewModel.cs
+git add UCTab1/Converters/ConverterBase.cs
+git add UCTab1/Converters/MyValueConverter.cs
+git add UCTab1/App.config
+git add UCTab1/MainWindow.xaml
+git add UCTab1/MainWindow.xaml.cs
+git add UCTab1/Properties/AssemblyInfo.cs
+git add UCTab1/app.config
+git add UCTab1/Properties/Settings.settings
+git add UCTab1/Properties/Resources.Designer.cs
+git add UCTab1/Properties/Resources.resx
+git add UCTab1/Properties/Settings.Designer.cs
+git add UCTab1/UCTab1.csproj
+git add UCTab1.sln
+git add .gitignore
